@@ -1,0 +1,3 @@
+[submodule "lib/GenericIOTStack"]
+	path = lib/GenericIOTStack
+	url = git@github.com:andeben/GenericIOTStack.git
